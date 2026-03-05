@@ -35,7 +35,7 @@ Our philosophy: Learn → Build → Deploy → Deliver → Optimize (AI/ML)
 
 # 🧩 The C2D2 Framework
 
-C2D2Labs is built around **six pillars**:
+C2D2Labs is built around **four pillars**:
 
 ---
 
