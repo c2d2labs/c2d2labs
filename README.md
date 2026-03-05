@@ -147,8 +147,7 @@ CI/CD → Monitoring → Production Deployments → MLOps
 
 # 🏗️ C2D2 Architecture Diagram
 
-```mermaid
-flowchart LR
+
 
 A[👨‍🎓 Students / Developers]
 
